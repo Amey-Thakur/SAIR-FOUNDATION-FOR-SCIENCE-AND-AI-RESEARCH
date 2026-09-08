@@ -1,0 +1,21 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+  "name": "SAIR Foundation: Open Science Competitions Research Index",
+  "version": "1.0.0",
+  "runtimePlatform": "Python 3.10+",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Amey",
+      "familyName": "Thakur",
+      "id": "https://orcid.org/0000-0001-5644-1575"
+    }
+  ],
+  "description": "A single index to every SAIR Foundation open competition entered by the author: the question each one asks, the repository holding the work, the published dates, and an honest account of what each method reached.",
+  "programmingLanguage": [
+    "Markdown",
+    "Python"
+  ]
+}
