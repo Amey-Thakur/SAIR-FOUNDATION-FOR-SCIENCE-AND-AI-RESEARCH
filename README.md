@@ -228,7 +228,9 @@ Grateful acknowledgment to the **participants** whose entries crowded the leader
 
 ---
 
-### ⌬ [SAIR Foundation](https://sair.foundation/)
+<a href="https://sair.foundation/" title="SAIR Foundation"><img src="assets/sair-mark.png" alt="SAIR Foundation mark" width="64"></a>
+
+### [SAIR Foundation](https://sair.foundation/)
 
 **Open competitions on unsolved problems in mathematics and computation**
 
