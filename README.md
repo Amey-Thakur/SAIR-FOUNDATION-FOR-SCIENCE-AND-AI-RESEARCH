@@ -9,7 +9,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Foundation](https://img.shields.io/badge/Foundation-SAIR-340825.svg)](https://sair.foundation/)
 [![Research](https://img.shields.io/badge/Research-Open%20Problems-BF3989.svg)](#the-challenges)
-[![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+[![Author](https://img.shields.io/badge/Author-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
 **A single index to every SAIR Foundation challenge I have entered: what each one asks, where the work lives, and what came of it.**
 
