@@ -132,9 +132,10 @@ one, and measurements from the repositories where it did not.
 | **Mathematics Distillation** | Stage 2 solver submitted, deterministic on both tracks | Repository |
 | **Modular Arithmetic** | Model published, submission recorded. The competition did not publish a leaderboard | Competition API |
 
-> [!NOTE]
-> The Inverse Galois standing is final: that competition finished on
-> 15 August 2026. The repository records the date its figures were read.
+> [!WARNING]
+> The Inverse Galois figure is a snapshot. Leaderboards move, and the
+> denominator in particular has changed since the competition closed, so the
+> repository records the date its numbers were read.
 
 ### The one finding worth carrying between them
 
