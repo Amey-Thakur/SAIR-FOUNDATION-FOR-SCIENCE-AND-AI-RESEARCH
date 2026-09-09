@@ -1,10 +1,14 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "license": "https://spdx.org/licenses/CC-BY-4.0.html",
   "name": "SAIR Foundation: Open Science Competitions Research Index",
-  "version": "1.0.0",
-  "runtimePlatform": "Python 3.10+",
+  "description": "A single index to every SAIR Foundation open competition entered by the author: the question each one asks, the repository holding the work, the published dates, and an honest account of what each method reached.",
+  "identifier": "SAIR-FOUNDATION-FOR-SCIENCE-AND-AI-RESEARCH",
+  "license": "https://spdx.org/licenses/CC-BY-4.0.html",
+  "programmingLanguage": [
+    "Markdown",
+    "Python"
+  ],
   "author": [
     {
       "@type": "Person",
@@ -13,9 +17,34 @@
       "id": "https://orcid.org/0000-0001-5644-1575"
     }
   ],
-  "description": "A single index to every SAIR Foundation open competition entered by the author: the question each one asks, the repository holding the work, the published dates, and an honest account of what each method reached.",
-  "programmingLanguage": [
-    "Markdown",
-    "Python"
-  ]
+  "dateCreated": "2026-09-08",
+  "dateReleased": "2026-09-08",
+  "codeRepository": "https://github.com/Amey-Thakur/SAIR-FOUNDATION-FOR-SCIENCE-AND-AI-RESEARCH",
+  "developmentStatus": "active",
+  "runtimePlatform": "Python 3.10+",
+  "keywords": [
+    "AI for Mathematics",
+    "AI for Science",
+    "Andrews-Curtis",
+    "Competition",
+    "Computational Mathematics",
+    "Equational Theories",
+    "Galois Theory",
+    "Index",
+    "Lean 4",
+    "Mathematics",
+    "Modular Arithmetic",
+    "Open Problems",
+    "Open Science",
+    "Research Index",
+    "SAIR",
+    "SAIR Foundation",
+    "Amey Thakur",
+    "amey",
+    "ameythakur",
+    "amey-thakur",
+    "ameyarc"
+  ],
+  "url": "https://sair.foundation/",
+  "version": "1.0.0"
 }

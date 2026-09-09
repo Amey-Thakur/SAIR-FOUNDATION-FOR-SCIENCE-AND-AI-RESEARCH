@@ -1,0 +1,41 @@
+# SAIR Foundation
+
+> Index to every SAIR Foundation challenge entered: the open problem each
+> one states, the repository holding the method and the code, and what
+> that method actually reached. Open science competitions in mathematics
+> and computation, run by the Foundation for Science and AI Research.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Licence: CC BY 4.0, attribution required
+Repository created: 8 September 2026
+
+## What is in this repository
+
+- README.md, the index itself
+- assets, 4 files
+
+This repository holds no method of its own. Each challenge keeps its own
+code, its own documentation and its own account of where it stopped.
+
+## The challenges indexed
+
+- Andrews-Curtis Conjecture: https://github.com/Amey-Thakur/SAIR-ANDREWS-CURTIS-CHALLENGE
+- Lean Kernel, Stage 1: https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE
+- Mathematics Distillation, Equational Theories: https://github.com/Amey-Thakur/SAIR-MATHEMATICS-DISTILLATION-CHALLENGE
+- Inverse Galois Problem, IGP24: https://github.com/Amey-Thakur/SAIR-INVERSE-GALOIS-PROBLEM-IGP24
+- Modular Arithmetic: https://github.com/Amey-Thakur/SAIR-MODULAR-ARITHMETIC-CHALLENGE
+
+## Subject terms
+
+ai-for-math, ai-for-science, andrews-curtis, competition,
+computational-mathematics, equational-theories, galois-theory, index,
+lean4, mathematics, modular-arithmetic, open-problems, open-science,
+research-index, sair, sair-foundation
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/SAIR-FOUNDATION-FOR-SCIENCE-AND-AI-RESEARCH
+- Foundation: https://sair.foundation/
+- Competitions: https://competition.sair.foundation/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
