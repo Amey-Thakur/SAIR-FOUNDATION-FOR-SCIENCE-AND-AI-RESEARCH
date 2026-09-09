@@ -91,16 +91,15 @@ felt.
 
 ## The Challenges
 
-Newest first. Status reflects the competition, not my progress; my own
-results are in [Results](#results).
+Newest first. What each one reached is in [Results](#results).
 
-| Challenge | The question it asks | Repository | Status |
-|:----------|:---------------------|:----------:|:------:|
-| **Andrews–Curtis Conjecture** | Can every balanced presentation of the trivial group be reduced to the standard one by three elementary moves? | [Repository](https://github.com/Amey-Thakur/SAIR-ANDREWS-CURTIS-CHALLENGE) | Open |
-| **Lean Kernel** *(Stage 1)* | How cheaply can Lean's kernel verify a computation that has been proved correct? | [Repository](https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE) | Open |
-| **Mathematics Distillation** *(Equational Theories)* | Which implications between equational theories can be decided, and can a machine certify them? | [Repository](https://github.com/Amey-Thakur/SAIR-MATHEMATICS-DISTILLATION-CHALLENGE) | Closed |
-| **Inverse Galois Problem** *(IGP24)* | Which finite groups occur as Galois groups of degree 24 polynomials over the rationals? | [Repository](https://github.com/Amey-Thakur/SAIR-INVERSE-GALOIS-PROBLEM-IGP24) | Closed |
-| **Modular Arithmetic** | Can a neural network compute an exact modular product of numbers hundreds of digits long? | [Repository](https://github.com/Amey-Thakur/SAIR-MODULAR-ARITHMETIC-CHALLENGE) | Closed |
+| Challenge | The question it asks | Repository |
+|:----------|:---------------------|:----------:|
+| **Andrews–Curtis Conjecture** | Can every balanced presentation of the trivial group be reduced to the standard one by three elementary moves? | [Repository](https://github.com/Amey-Thakur/SAIR-ANDREWS-CURTIS-CHALLENGE) |
+| **Lean Kernel** *(Stage 1)* | How cheaply can Lean's kernel verify a computation that has been proved correct? | [Repository](https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE) |
+| **Mathematics Distillation** *(Equational Theories)* | Which implications between equational theories can be decided, and can a machine certify them? | [Repository](https://github.com/Amey-Thakur/SAIR-MATHEMATICS-DISTILLATION-CHALLENGE) |
+| **Inverse Galois Problem** *(IGP24)* | Which finite groups occur as Galois groups of degree 24 polynomials over the rationals? | [Repository](https://github.com/Amey-Thakur/SAIR-INVERSE-GALOIS-PROBLEM-IGP24) |
+| **Modular Arithmetic** | Can a neural network compute an exact modular product of numbers hundreds of digits long? | [Repository](https://github.com/Amey-Thakur/SAIR-MODULAR-ARITHMETIC-CHALLENGE) |
 
 > [!TIP]
 > If you are choosing where to start, start with the **Andrews–Curtis**
