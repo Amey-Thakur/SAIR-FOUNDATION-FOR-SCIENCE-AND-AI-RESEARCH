@@ -126,16 +126,15 @@ one, and measurements from the repositories where it did not.
 
 | Challenge | Result | Source |
 |:----------|:-------|:------:|
-| **Inverse Galois Problem** | Rank **54 of 140**, score **2.3559**, 10,180 scoreable pairs, as team AVATAR | Competition leaderboard |
+| **Inverse Galois Problem** | Rank **54**, score **2.3559**, 10,180 scoreable pairs, as team AVATAR | Competition leaderboard |
 | **Andrews–Curtis** | Baseline search trivialises `AK(2)` in **18 verified moves**; `AK(3)` and stable `AK(2)` are not reached inside 60,000 nodes | Repository, reproducible |
 | **Lean Kernel** | The Stage 1 artifact builds and its proof depends on `propext` and `Quot.sound` only. The separate checker rejects both of the arena's exports that prove `False` | Repository CI |
 | **Mathematics Distillation** | Stage 2 solver submitted, deterministic on both tracks | Repository |
 | **Modular Arithmetic** | Model published, submission recorded. The competition did not publish a leaderboard | Competition API |
 
 > [!NOTE]
-> The Inverse Galois standing is final. That competition closed and its
-> leaderboard is published, so the figure is read from the leaderboard rather
-> than from a snapshot that could move.
+> The Inverse Galois standing is final: that competition finished on
+> 15 August 2026. The repository records the date its figures were read.
 
 ### The one finding worth carrying between them
 
