@@ -156,13 +156,13 @@ easy answers.
 One paper per challenge. All five are dated 11 November 2026 and are being
 posted as preprints; each identifier is filled in once the preprint is live.
 
-| # | Paper | Challenge | Category | Preprint |
+| # | Paper | Challenge | Category | PDF and preprint id |
 |:--|:------|:----------|:---------|:--------:|
-| I | Place Value, Not Position: Length Generalisation Limits in Neural Modular Arithmetic | Modular Arithmetic | Artificial Intelligence | *pending* |
-| II | Chebotarev Fingerprints: Identifying Degree-24 Galois Groups Without Computer Algebra | Inverse Galois | Number Theory | *pending* |
-| III | Length as Priority, Not Constraint: Search Geometry of the Andrews-Curtis Challenge Pool | Andrews–Curtis | Algebra | *pending* |
-| IV | The Verdict Is Free: A Saturated Benchmark for Equational Implication, and What It Leaves to Prove | Mathematics Distillation | Set Theory and Logic | *pending* |
-| V | A Whole Table Row in One Natural Number: Kernel-Checked Dynamic Programming with a Proved Width Bound | Lean Kernel | Data Structures and Algorithms | *pending* |
+| I | Place Value, Not Position: Length Generalisation Limits in Neural Modular Arithmetic | Modular Arithmetic | Artificial Intelligence | [PDF](papers/I-modular-arithmetic.pdf) · *id pending* |
+| II | Chebotarev Fingerprints: Identifying Degree-24 Galois Groups Without Computer Algebra | Inverse Galois | Number Theory | [PDF](papers/II-inverse-galois.pdf) · *id pending* |
+| III | Length as Priority, Not Constraint: Search Geometry of the Andrews-Curtis Challenge Pool | Andrews–Curtis | Algebra | [PDF](papers/III-andrews-curtis.pdf) · *id pending* |
+| IV | The Verdict Is Free: A Saturated Benchmark for Equational Implication, and What It Leaves to Prove | Mathematics Distillation | Set Theory and Logic | [PDF](papers/IV-equational-distillation.pdf) · *id pending* |
+| V | A Whole Table Row in One Natural Number: Kernel-Checked Dynamic Programming with a Proved Width Bound | Lean Kernel | Data Structures and Algorithms | [PDF](papers/V-lean-kernel.pdf) · *id pending* |
 
 Each paper's title, abstract, page count and category are collected in
 [`VIXRA-SUBMISSION.md`](VIXRA-SUBMISSION.md), generated from the manuscripts
@@ -172,7 +172,9 @@ rather than retyped, so the brief cannot drift from the paper.
 > The LaTeX sources, figure generators and number-checking tools live in five
 > separate `SAIR-*-ARXIV` repositories. Nothing in this repository or in the
 > five challenge repositories links to them, so removing them breaks no link
-> here. It does remove the only place these papers compile.
+> here, and the compiled PDFs are kept in `papers/` so the published
+> artifacts survive. It does remove the only place these papers compile
+> from source.
 
 ---
 
