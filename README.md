@@ -164,17 +164,15 @@ posted as preprints; each identifier is filled in once the preprint is live.
 | IV | The Verdict Is Free: A Saturated Benchmark for Equational Implication, and What It Leaves to Prove | Mathematics Distillation | Set Theory and Logic | [PDF](papers/IV-equational-distillation.pdf) · *id pending* |
 | V | A Whole Table Row in One Natural Number: Kernel-Checked Dynamic Programming with a Proved Width Bound | Lean Kernel | Data Structures and Algorithms | [PDF](papers/V-lean-kernel.pdf) · *id pending* |
 
-Each paper's title, abstract, page count and category are collected in
-[`VIXRA-SUBMISSION.md`](VIXRA-SUBMISSION.md), generated from the manuscripts
-rather than retyped, so the brief cannot drift from the paper.
+Each compiled paper is archived in `papers/`, so the published artifacts do
+not depend on any other repository.
 
 > [!NOTE]
-> The LaTeX sources, figure generators and number-checking tools live in five
-> separate `SAIR-*-ARXIV` repositories. Nothing in this repository or in the
-> five challenge repositories links to them, so removing them breaks no link
-> here, and the compiled PDFs are kept in `papers/` so the published
-> artifacts survive. It does remove the only place these papers compile
-> from source.
+> The LaTeX sources, figure generators and number-checking tools lived in five
+> separate `SAIR-*-ARXIV` repositories, which were removed once the preprints
+> were posted. The compiled PDFs in `papers/` are what survives. No paper
+> cites those repositories: every code and data link in all five points at the
+> challenge repository for that competition, all of which remain.
 
 ---
 
