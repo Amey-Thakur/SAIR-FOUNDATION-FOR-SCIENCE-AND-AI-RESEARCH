@@ -96,7 +96,7 @@ Newest first. What each one reached is in [Results](#results).
 | Challenge | The question it asks | Repository |
 |:----------|:---------------------|:----------:|
 | **Andrews–Curtis Conjecture** | Can every balanced presentation of the trivial group be reduced to the standard one by three elementary moves? | [Repository](https://github.com/Amey-Thakur/SAIR-ANDREWS-CURTIS-CHALLENGE) |
-| **Lean Kernel** *(Stage 1)* | How cheaply can Lean's kernel verify a computation that has been proved correct? | [Repository](https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE) |
+| **Lean Kernel** *(Stages 1 and 2)* | How cheaply can Lean's kernel verify a computation that has been proved correct? | [Repository](https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE) |
 | **Mathematics Distillation** *(Equational Theories)* | Which implications between equational theories can be decided, and can a machine certify them? | [Repository](https://github.com/Amey-Thakur/SAIR-MATHEMATICS-DISTILLATION-CHALLENGE) |
 | **Inverse Galois Problem** *(IGP24)* | Which finite groups occur as Galois groups of degree 24 polynomials over the rationals? | [Repository](https://github.com/Amey-Thakur/SAIR-INVERSE-GALOIS-PROBLEM-IGP24) |
 | **Modular Arithmetic** | Can a neural network compute an exact modular product of numbers hundreds of digits long? | [Repository](https://github.com/Amey-Thakur/SAIR-MODULAR-ARITHMETIC-CHALLENGE) |
@@ -126,15 +126,18 @@ one, and measurements from the repositories where it did not.
 | Challenge | Result | Source |
 |:----------|:-------|:------:|
 | **Inverse Galois Problem** | Rank **54**, score **2.3559**, 10,180 scoreable pairs, as team AVATAR | Competition leaderboard |
-| **Andrews–Curtis** | Baseline search trivialises `AK(2)` in **18 verified moves**; `AK(3)` and stable `AK(2)` are not reached inside 60,000 nodes | Repository, reproducible |
-| **Lean Kernel** | The Stage 1 artifact builds and its proof depends on `propext` and `Quot.sound` only. The separate checker rejects both of the arena's exports that prove `False` | Repository CI |
+| **Andrews–Curtis** | Rank **31** on `ac` and **30** on `stable_ac`, holding **161** and **142** of the pool's 10,115 challenges from 31 verified submissions. The score falls as other teams match records we hold, which is the tie rule working as designed | Competition leaderboard |
+| **Lean Kernel** | Stage 2: entries on all eight problems, each completing every judged case. `fib` reduced from 96,242,624 to **41,256,395** and `primecount` from 6,615,477,981 to **5,491,119,546**; best standing is `polydisc` at rank **39 of 49**. Stage 1 still builds on `propext` and `Quot.sound` alone | Competition leaderboard |
 | **Mathematics Distillation** | Stage 2 solver submitted, deterministic on both tracks | Repository |
 | **Modular Arithmetic** | Model published, submission recorded. The competition did not publish a leaderboard | Competition API |
 
 > [!WARNING]
-> The Inverse Galois figure is a snapshot. Leaderboards move, and the
-> denominator in particular has changed since the competition closed, so the
-> repository records the date its numbers were read.
+> Every leaderboard figure here is a snapshot, read on 11 November 2026. These
+> boards move in both directions: the Lean Kernel field grew from 38 to 49
+> entrants on one problem inside three weeks, so a standing can fall while the
+> measurement improves, and the Andrews–Curtis score decays whenever another
+> team matches a record we already hold. Each repository records the date its
+> own numbers were read.
 
 ### The one finding worth carrying between them
 
@@ -145,6 +148,31 @@ one, and measurements from the repositories where it did not.
 That came out of the Inverse Galois run, and it has held up in every challenge
 since. Measure the method before scaling it, and drop whatever manufactures
 easy answers.
+
+---
+
+## Papers
+
+One paper per challenge. All five are dated 11 November 2026 and are being
+posted as preprints; each identifier is filled in once the preprint is live.
+
+| # | Paper | Challenge | Category | Preprint |
+|:--|:------|:----------|:---------|:--------:|
+| I | Place Value, Not Position: Length Generalisation Limits in Neural Modular Arithmetic | Modular Arithmetic | Artificial Intelligence | *pending* |
+| II | Chebotarev Fingerprints: Identifying Degree-24 Galois Groups Without Computer Algebra | Inverse Galois | Number Theory | *pending* |
+| III | Length as Priority, Not Constraint: Search Geometry of the Andrews-Curtis Challenge Pool | Andrews–Curtis | Algebra | *pending* |
+| IV | The Verdict Is Free: A Saturated Benchmark for Equational Implication, and What It Leaves to Prove | Mathematics Distillation | Set Theory and Logic | *pending* |
+| V | A Whole Table Row in One Natural Number: Kernel-Checked Dynamic Programming with a Proved Width Bound | Lean Kernel | Data Structures and Algorithms | *pending* |
+
+Each paper's title, abstract, page count and category are collected in
+[`VIXRA-SUBMISSION.md`](VIXRA-SUBMISSION.md), generated from the manuscripts
+rather than retyped, so the brief cannot drift from the paper.
+
+> [!NOTE]
+> The LaTeX sources, figure generators and number-checking tools live in five
+> separate `SAIR-*-ARXIV` repositories. Nothing in this repository or in the
+> five challenge repositories links to them, so removing them breaks no link
+> here. It does remove the only place these papers compile.
 
 ---
 
