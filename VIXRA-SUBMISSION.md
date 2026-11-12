@@ -44,7 +44,7 @@ the largest PDF is 0.37 MB against a 5 MB cap.
 
 ## Paper II - Inverse Galois (IGP24)
 
-**PDF to upload:** `papers/II-inverse-galois.pdf` (?, ? pages). Source `SAIR-INVERSE-GALOIS-ARXIV/main.tex`, was bound for arXiv `math.NT`.
+**PDF to upload:** `papers/II-inverse-galois.pdf` (0.32 MB, 16 pages). Source `SAIR-INVERSE-GALOIS-ARXIV/main.tex`, was bound for arXiv `math.NT`.
 
 **Science Category** - select from the dropdown, one only:
 
@@ -73,13 +73,13 @@ Naming the Galois group of a degree-24 integer polynomial ordinarily demands res
 **Number of pages**
 
 ```
-?
+16
 ```
 
 **Comment**
 
 ```
-? pages, 5 figures, 7 tables
+16 pages, 5 figures, 7 tables. Code and data: https://github.com/Amey-Thakur/SAIR-INVERSE-GALOIS-PROBLEM-IGP24
 ```
 
 **Other instructions** - leave blank.
@@ -88,7 +88,7 @@ Naming the Galois group of a degree-24 integer polynomial ordinarily demands res
 
 ## Paper I - Modular Arithmetic
 
-**PDF to upload:** `papers/I-modular-arithmetic.pdf` (?, ? pages). Source `SAIR-MODULAR-ARITHMETIC-ARXIV/main.tex`, was bound for arXiv `cs.LG`.
+**PDF to upload:** `papers/I-modular-arithmetic.pdf` (0.28 MB, 15 pages). Source `SAIR-MODULAR-ARITHMETIC-ARXIV/main.tex`, was bound for arXiv `cs.LG`.
 
 **Science Category** - select from the dropdown, one only:
 
@@ -117,13 +117,13 @@ A transformer is told where a digit sits, and that choice decides whether it can
 **Number of pages**
 
 ```
-?
+15
 ```
 
 **Comment**
 
 ```
-? pages, 4 figures, 4 tables
+15 pages, 4 figures, 4 tables. Code and data: https://github.com/Amey-Thakur/SAIR-MODULAR-ARITHMETIC-CHALLENGE
 ```
 
 **Other instructions** - leave blank.
@@ -132,7 +132,7 @@ A transformer is told where a digit sits, and that choice decides whether it can
 
 ## Paper III - Andrews-Curtis
 
-**PDF to upload:** `papers/III-andrews-curtis.pdf` (?, ? pages). Source `SAIR-ANDREWS-CURTIS-ARXIV/main.tex`, was bound for arXiv `math.GR`.
+**PDF to upload:** `papers/III-andrews-curtis.pdf` (0.31 MB, 18 pages). Source `SAIR-ANDREWS-CURTIS-ARXIV/main.tex`, was bound for arXiv `math.GR`.
 
 **Science Category** - select from the dropdown, one only:
 
@@ -161,13 +161,13 @@ A search for an Andrews-Curtis reduction that bounds the total length of the rel
 **Number of pages**
 
 ```
-?
+18
 ```
 
 **Comment**
 
 ```
-? pages, 5 figures, 10 tables
+18 pages, 5 figures, 10 tables. Code and data: https://github.com/Amey-Thakur/SAIR-ANDREWS-CURTIS-CHALLENGE
 ```
 
 **Other instructions** - leave blank.
@@ -176,7 +176,7 @@ A search for an Andrews-Curtis reduction that bounds the total length of the rel
 
 ## Paper IV - Equational Distillation
 
-**PDF to upload:** `papers/IV-equational-distillation.pdf` (?, ? pages). Source `SAIR-MATHEMATICS-DISTILLATION-ARXIV/main.tex`, was bound for arXiv `cs.LO`.
+**PDF to upload:** `papers/IV-equational-distillation.pdf` (0.21 MB, 11 pages). Source `SAIR-MATHEMATICS-DISTILLATION-ARXIV/main.tex`, was bound for arXiv `cs.LO`.
 
 **Science Category** - select from the dropdown, one only:
 
@@ -205,13 +205,13 @@ A benchmark that asks whether one equational law implies another can be saturate
 **Number of pages**
 
 ```
-?
+11
 ```
 
 **Comment**
 
 ```
-? pages, 2 figures, 5 tables
+11 pages, 2 figures, 5 tables. Code and data: https://github.com/Amey-Thakur/SAIR-MATHEMATICS-DISTILLATION-CHALLENGE
 ```
 
 **Other instructions** - leave blank.
@@ -220,7 +220,7 @@ A benchmark that asks whether one equational law implies another can be saturate
 
 ## Paper V - Lean Kernel
 
-**PDF to upload:** `papers/V-lean-kernel.pdf` (?, ? pages). Source `SAIR-LEAN-KERNEL-ARXIV/main.tex`, was bound for arXiv `cs.LO`.
+**PDF to upload:** `papers/V-lean-kernel.pdf` (0.35 MB, 16 pages). Source `SAIR-LEAN-KERNEL-ARXIV/main.tex`, was bound for arXiv `cs.LO`.
 
 **Science Category** - select from the dropdown, one only:
 
@@ -249,13 +249,13 @@ A proof assistant checks a computation by reducing it, so the data structure a v
 **Number of pages**
 
 ```
-?
+16
 ```
 
 **Comment**
 
 ```
-? pages, 3 figures, 6 tables
+16 pages, 3 figures, 6 tables. Code and data: https://github.com/Amey-Thakur/SAIR-LEAN-KERNEL-CHALLENGE
 ```
 
 **Other instructions** - leave blank.
